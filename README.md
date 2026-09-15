@@ -12,6 +12,8 @@ The project demonstrates a complete Excel-based analytics workflow:
 
 **Data Preparation → PivotTables → KPI Analysis → Data Visualization → Dashboard → Business Insights**
 
+## Dashboard Preview
+![Retail Sales Dashboard](1789511140509.jpg)
 ---
 
 ## 🛠️ Tools & Skills
